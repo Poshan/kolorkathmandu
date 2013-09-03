@@ -1,0 +1,1237 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "Name": "The Giant Storybook by Herakut",
+                "Description": "<div dir=\"ltr\">Opposite to Lalit Kala and Durbar High School</div> <br> <img src=\"http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/herakut.jpg\">",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//A - Herakut.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.313858,
+                    27.707182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "Name": "Priscila's Mural",
+                "Description": "<div dir=\"ltr\">Jawalakhel Chowk, Above Attsh Tshirt store</div> <br> <img src=\"http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/pricila.jpg\">",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//C - Priscilla de Carvalho.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.313965,
+                    27.672943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "Name": "Midnight Mural by Dustin Spagnola",
+                "Description": "<div dir=\"ltr\">Opposite to petrol pump, Bag Bazar</div> <br> <img src=\"http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/dustin-bagbazar.jpg\">",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//B - Dustin Spagnola.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.316544,
+                    27.705872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "Name": "Collaborative Mural by Social Creatives",
+                "Description": "<div dir=\"ltr\">Kalikasthan</div> <br> <img src=\"http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/sc-dillibazar.jpg\">",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//37 Syangja - Michelle Lama & Roseanne Kalavathi.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.32621,
+                    27.703287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "Name": "1. Gorkha by Shunnal Ligadi",
+                "Description": "<div dir=\"ltr\">Dhungedhara, Banasthali (On the wall of Corona International School)</div>",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//01 Gorkha - Bathroom Painter.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.29184,
+                    27.725931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "properties": {
+                "Name": "2. Rupandehi by Suiko",
+                "Description": "<div dir=\"ltr\">Mhepi, Kathmandu</div>",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//02 Rupandehi - Suiko.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.306938,
+                    27.72654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "properties": {
+                "Name": "3. Rukum by Rimishna Manandhar",
+                "Description": "<div dir=\"ltr\">Mhepi, Kathmandu</div>",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//03 Rukum - Rimishna Manandhar.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.308411,
+                    27.728115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "properties": {
+                "Name": "4. Parbat by Ricole Fedyna",
+                "Description": "<div dir=\"ltr\">Nayabazar Town Planning, Kathmandu (Football Field)</div>",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//04 Parbat - Ricole Fedyna.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.30571,
+                    27.721924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "properties": {
+                "Name": "5. Morang by Shreezan Shrestha",
+                "Description": "<div dir=\"ltr\">Nayabazr Town Planning, Kathmandu (Football Field)</div>",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//05 Morang - Shreezan Shrestha.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.306076,
+                    27.721954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "properties": {
+                "Name": "6. Kanchanpur by Dustin Spagnola",
+                "Description": "Nayabazar, Kathmandu (Besides Prime College)",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//06 Kanchanpur - Dustin Spagnola.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.303123,
+                    27.720076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "properties": {
+                "Name": "7. Chitwan by Kusum Bajracharya",
+                "Description": "<div dir=\"ltr\">Near Everest Higher Secondary School, Galkhopakha, Thamel</div> <br> <img src=\"http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/chitwan.jpg\">",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//07 Chitwan - Kusum Bajracharya.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.3134,
+                    27.720261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "properties": {
+                "Name": "8. Kapilbastu by Imagine",
+                "Description": "Saatghumti, Thamel, Kathmandu (Behind Kathmandu Guest House)",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//08 Kapilvastu - IMAGINE.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.309303,
+                    27.715343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "properties": {
+                "Name": "9. Kailali by Sujan Dongol",
+                "Description": "Outside building of Bijeshowri Boarding School <br> <img src=\"http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/khai.jpg\">",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//09 Kailali - Sujan Dangol.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.299339,
+                    27.713091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "properties": {
+                "Name": "10. Myagdi by Nivedita Siddharthan",
+                "Description": "<div dir=\"ltr\">Bijeshwori, Kathmandu</div>",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//10 Myagdi - Nivedita Siddharthan.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.296906,
+                    27.713736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14,
+            "properties": {
+                "Name": "11. Kaski by Amrit Karki",
+                "Description": "<div dir=\"ltr\">Lazimpat, Kathmandu (Opposite to Nepali Chulo)</div>",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//11 Kaski - Amrit Karki.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.320374,
+                    27.722919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15,
+            "properties": {
+                "Name": "12. Makwanpur by Daichi Matsusaki",
+                "Description": "<div dir=\"ltr\">Near Gangjong Hotel</div> <br> <img src=\"http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/makwanpur1.jpg\">",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//12 Makwanpur - Daichi Matsusaki.JPG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.321129,
+                    27.722925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16,
+            "properties": {
+                "Name": "14. Dailekh by Paul Aitchinson",
+                "Description": "<div dir=\"ltr\">Near Japanese Embassy, Pani Pokhari</div> <br> <img src=\"http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/dailekh.jpg\">",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//13 Bardiya - Suiko.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.324821,
+                    27.728628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17,
+            "properties": {
+                "Name": "16. Humla by Aditya Aryal",
+                "Description": "<div dir=\"ltr\">Gairidhara Chowk, on the wall of Palace Corner Restaurant</div> <br> <img src=\"http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/aditya.jpg\">",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//16 Humla - Sadhu-X.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.324966,
+                    27.717487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18,
+            "properties": {
+                "Name": "17. Ramechap by Sangam Sunuwar",
+                "Description": "Gahiridhara, Kathmandu",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//17 Ramechhap - Sangam Sunwar.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.324783,
+                    27.717907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19,
+            "properties": {
+                "Name": "18. Tanahu by Imagine",
+                "Description": "Gahiridhara, Kathmandu (SANN International College)",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//18 Tanahu - IMAGINE.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.328148,
+                    27.720488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20,
+            "properties": {
+                "Name": "19. Sunsari by Aditya Aryal and Renny Normala",
+                "Description": "<div dir=\"ltr\">Baluwatar</div> <br> <img src=\"http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/sc-aditya-baluwatar.jpg\">",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//19 Sunsari - Renny Normala & Sadhu-X.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.331322,
+                    27.722782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21,
+            "properties": {
+                "Name": "20. Argakhanchi by Sneha Shrestha",
+                "Description": "",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//20 Arghakhachi - IMAGINE.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.331047,
+                    27.72274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22,
+            "properties": {
+                "Name": "21. Illam by Marina Menuka Lama",
+                "Description": "<div dir=\"ltr\">Bishalnagar, Kathmandu (Besides Embassy of Finland)</div>",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//21 Ilam - Marina Menuka Lama.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.335381,
+                    27.721724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23,
+            "properties": {
+                "Name": "22. Solukhumbu by Kiran Rai",
+                "Description": "<div dir=\"ltr\">Dhumbarahi, Kathmandu (Saipal Academy's wall)</div>",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//22 Solukhumbhu - Kiran Rai.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.339081,
+                    27.723572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24,
+            "properties": {
+                "Name": "23. Baglung by Prabal Shrestha",
+                "Description": "<div dir=\"ltr\">Near City Center Chowk (Jain Mandir)<br>&nbsp;</div>",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//23 Baglung - Prabal Shrestha.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.32901,
+                    27.709406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25,
+            "properties": {
+                "Name": "24. Daang by Shunnal Ligade ",
+                "Description": "<div dir=\"ltr\">Near ICA (IGNOU), Gyaneshwor</div>",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//24 Dang Deukhuri - Bathroom Painter.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.332077,
+                    27.709063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26,
+            "properties": {
+                "Name": "25. Dhading by Colleen Stewart",
+                "Description": "<div dir=\"ltr\">Near Bangemuda, Nhyokha</div>",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//25 Dhading - Colleen Stewart.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.308128,
+                    27.70845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27,
+            "properties": {
+                "Name": "26. Nuwakot by Sanjay Shrestha",
+                "Description": "Kankeshwor Temple, Paropakar Road, Kathmandu",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//26 Nuwakot Sanjay Shrestha.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.30249,
+                    27.706882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28,
+            "properties": {
+                "Name": "27. Kathmandu by Shramdeep Purkoti, Prabal Shrestha and Shristi Shrestha",
+                "Description": "Dhokatole, Kathmandu",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//27 Kathmandu - Prabal Shrestha, Shramdip Purkoti & Shristi Shrestha.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.306496,
+                    27.705643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29,
+            "properties": {
+                "Name": "28. Dhankuta by Ricky Lee Gordon",
+                "Description": "<div dir=\"ltr\">Near Dhokatole, Basantapur</div> <br> <img src=\"http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/dhankuta.jpg\">",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//28 Dhankuta - Freddy Sam.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.305595,
+                    27.705658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30,
+            "properties": {
+                "Name": "29. Bhaktapur by Bandana Tulachan",
+                "Description": "Near Kasthamandap Temple",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//29 Bhaktapur - Bandana Tulachan.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.305832,
+                    27.704166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31,
+            "properties": {
+                "Name": "30. Nawalparasi By Fuzion",
+                "Description": "<div dir=\"ltr\">Maru, Kathmandu</div>",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//30 Nawalparasi - Sandhya Silwal.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.305893,
+                    27.704166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32,
+            "properties": {
+                "Name": "31. Mustang by Prajwal Upreti",
+                "Description": "<div dir=\"ltr\">Meghdoot Boxing Club, Museum Road, Tahachal</div> <br> <img src=\"http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/mustang.jpg\">",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//31 Mustang - PJ.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.299629,
+                    27.703287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33,
+            "properties": {
+                "Name": "32. Darchula by Dustin Spagnola",
+                "Description": "<div dir=\"ltr\">Meghdoot Boxing Club, Museum Road, Tahachal<br>&nbsp;</div> <img src=\"http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/dustin.jpg\">",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//32 Darchula - Dustin Spagnola.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.299545,
+                    27.703268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34,
+            "properties": {
+                "Name": "33. Okhaldhunga by Ozala Shrestha and Dishebh Raj Shrestha",
+                "Description": "<div dir=\"ltr\">Sundhara, Kathmandu (On the steps of the overhead Bridge)</div>",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//33 Okhaldhunga - Dishebh Raj Shrestha & Ujala Shrestha.JPG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.313416,
+                    27.700047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35,
+            "properties": {
+                "Name": "34. Lamjung by Shraddha Shrestha and Redzuan Salleh",
+                "Description": "Ratna Park, Kathmandu (On the Overhead Bridge)",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//34 Lamjung - Deadline & Redzuan Saleh.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.316193,
+                    27.706358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 36,
+            "properties": {
+                "Name": "35. Mohottari by Saran Tandukar",
+                "Description": "Bagbazar, Kathmandu",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//35 Mahottari - Saran Tandukar.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.319008,
+                    27.703604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37,
+            "properties": {
+                "Name": "36. Bajhang by DAAS and Dustin Spagnola",
+                "Description": "<div dir=\"ltr\">On Trinity College's wall, DilliBazar</div> <br> <img src=\"http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/daas-dustin.jpg\">",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//36 Bajhang - DAAS & Dustin Spagnola.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.325035,
+                    27.7038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38,
+            "properties": {
+                "Name": "37. Syangza by Michelle Lama and Roseanne Kalavati",
+                "Description": "<div dir=\"ltr\">Kalikasthan</div> <br> <img src=\"http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/michelle-dillibazaar.jpg\">",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//37 Syangja - Michelle Lama & Roseanne Kalavathi.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.326286,
+                    27.703478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39,
+            "properties": {
+                "Name": "38. Palpa by Bhawana Tulachan",
+                "Description": "<div dir=\"ltr\">Anamnagar, Kathmandu</div>",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//38 Palpa - Bhawana Tulachan.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.326965,
+                    27.699865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40,
+            "properties": {
+                "Name": "39. Sindhupalchowk by Marina Menuka Lama",
+                "Description": "Boudha, Kathmandu",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//39 Sindhupalchok - Marina Menuka Lama.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.360214,
+                    27.724127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41,
+            "properties": {
+                "Name": "40. Manang by Samantha and Team",
+                "Description": "Bodha, Kathmandu",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//40 Manang - After School Artists of Mangal Dvip Boarding School.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.360771,
+                    27.723856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42,
+            "properties": {
+                "Name": "41. Jhapa by DAAS",
+                "Description": "<div dir=\"ltr\">Sinamangal, inside Sikchantra School</div> <br> <img src=\"http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/daas-sinamangal.jpg\">",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//41 Jhapa - DAAS.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.351151,
+                    27.695803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43,
+            "properties": {
+                "Name": "42. Dadeldhura by Alberto Clerencia",
+                "Description": "<div dir=\"ltr\">Near Sony Showroom, Minbhawan</div> <br> <img src=\"http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/dadeldhura.jpg\">",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//42 Dadeldhura - Sabek.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.341408,
+                    27.687376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44,
+            "properties": {
+                "Name": "43. Lalitpur by Kiran Maharjan",
+                "Description": "Baneshwor, Kathmandu (On Sagarmatha Television Office)",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//43 Lalitpur - H11235.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.328125,
+                    27.691584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45,
+            "properties": {
+                "Name": "44. Sindhuli by Anish Bajracharya",
+                "Description": "<div dir=\"ltr\">Shankhamul, Next to Pacific Academy</div> <br> <img src=\"http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/sindhuli.jpg\">",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//44 Sindhuli - 20.12.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.333473,
+                    27.683823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 46,
+            "properties": {
+                "Name": "45. Dolakha by Emily Sams",
+                "Description": "<div dir=\"ltr\">Maitighar, on the main road</div> <br> <img src=\"http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/emily-maitighar.jpg\">",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//45 Dolakha - Emily Sams.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.321709,
+                    27.693789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 47,
+            "properties": {
+                "Name": "46. Bajura by Shraddha Shrestha",
+                "Description": "<div dir=\"ltr\">Maitighar, St Xavier's College Wall</div> <br> <img src=\"http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/shraddha1.jpg\">",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//46 Bajura - Deadline.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.320297,
+                    27.693977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48,
+            "properties": {
+                "Name": "47. Rolpa by Sujan Dangol",
+                "Description": "<div dir=\"ltr\">In various locations (Framing the word \"Safal\" in political slogans)</div>",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//47 Rolpa - Sujan Dangol.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.31675,
+                    27.708284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49,
+            "properties": {
+                "Name": "48. Rasuwa by DAAS",
+                "Description": "<div dir=\"ltr\">Thapathali, Near Bagmati Bridge</div> <br> <img src=\"http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/redpanda.jpg\">",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//48 Rasuwa - DAAS.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.31736,
+                    27.689457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 50,
+            "properties": {
+                "Name": "49. Kavrepalanchowk by Shreezan Shrestha",
+                "Description": "<div dir=\"ltr\">Lokanthali, Bhaktapur</div>",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//49 Kavrepalanchok - Shreezan Shrestha.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.356812,
+                    27.674892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51,
+            "properties": {
+                "Name": "50. Salyan by Saran Tandukar",
+                "Description": "<div dir=\"ltr\">Jwagal, Kupondole, Lalitpur</div>",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//50 Salyan - Saran Tandukar.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.31823,
+                    27.685478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 52,
+            "properties": {
+                "Name": "51. Siraha by Dishebh Raj Shrestha",
+                "Description": "Kupondole, Lalitpur",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//51 Siraha - Dishebh Raj Shrestha.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.317101,
+                    27.686796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 53,
+            "properties": {
+                "Name": "52. Taplejung by Dishebh Raj Shrestha",
+                "Description": "<div dir=\"ltr\">Kupondole, Lalitpur (Next to ECS Media)</div>",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//52 Taplejung - Dishebh Raj Shrestha.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.315269,
+                    27.686523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54,
+            "properties": {
+                "Name": "53. Doti by (Danae) Daphne Brissonet",
+                "Description": "<div dir=\"ltr\">Kupondole (Opposite to Water Aid), Lalitpur</div>",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//53 Doti - Danae Brissonnet.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.314285,
+                    27.687185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 55,
+            "properties": {
+                "Name": "54. Gulmi by Sourabh Thakur",
+                "Description": "<div dir=\"ltr\">Sanepa, Lalitpur (Opposite to Ezer Cafe)</div>",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//54 Gulmi - Sourabh Thakur.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.306732,
+                    27.685629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 56,
+            "properties": {
+                "Name": "55. Udaypur by Nhooja Tuladhar",
+                "Description": "<div dir=\"ltr\">Sanepa, Lalitpur (Momotero Resturant's Wall)</div>",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//55 Udayapur - Nhooja Tuladhar.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.306587,
+                    27.682489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 57,
+            "properties": {
+                "Name": "56. Parsa by Andrew Kentish (mr.ish)",
+                "Description": "Balkhu, Kathmandu",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//56 Parsa - mr. ish.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.298454,
+                    27.682108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 58,
+            "properties": {
+                "Name": "57. Khotang by Sangrachana Chamling",
+                "Description": "Near International Playgroup Pre-School, Thadodhunga, Sanepa",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//57 Khotang - Sangrachana Chamling.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.306694,
+                    27.678108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 59,
+            "properties": {
+                "Name": "58. Bhojpur by Natalie Wohlstadter",
+                "Description": "<div dir=\"ltr\">Near Kathmandu Futsal, Thadodhunga, Sanepa</div> <br> <img src=\"http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/bhojpur.jpg\">",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//58 Bhojpur - Natalie Wohlstadter.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.30719,
+                    27.677917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60,
+            "properties": {
+                "Name": "59. Dhanusa by Kabina Shrestha",
+                "Description": "<div dir=\"ltr\">Jhamsikhel, Ideal Model School Wall</div> <br> <img src=\"http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/kabina-jhamshikhel.jpg\">",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//59 Dhanusa - Kabina Shrestha.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.308319,
+                    27.677427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 61,
+            "properties": {
+                "Name": "60. Banke by Priti Sherchan",
+                "Description": "",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//60 Banke - Priti Sherchan.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.311295,
+                    27.676611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 62,
+            "properties": {
+                "Name": "61. Sarlahi by Shristi Shrestha",
+                "Description": "Dhobighat, Lalitpur (Near Assumption Church)",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//61 Sarlahi - Shristi Shrestha.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.307167,
+                    27.672356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 63,
+            "properties": {
+                "Name": "62. Bara by Anish Bajracharya and Thaib A. Wahab",
+                "Description": "<div dir=\"ltr\">Bhanimandal (near basketball court</div> <br> <img src=\"http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/bara.jpg\">",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//62 Bara - 20.12 & Thaib A. Wahab.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.307632,
+                    27.670929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 64,
+            "properties": {
+                "Name": "63. Panchthar by Prabal Shrestha",
+                "Description": "<div dir=\"ltr\">Bagdol, Nakkhu, Laitpur</div>",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//63 Panchthar - Prabal Shrestha.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.305519,
+                    27.668144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 65,
+            "properties": {
+                "Name": "64. Mugu by Hisila Tuladhar",
+                "Description": "<div dir=\"ltr\">Ekantakuna, Laitpur (Hotel Shaligram Appartments)</div>",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//64 Mugu - Hisila Tuladhar.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.311737,
+                    27.67094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 66,
+            "properties": {
+                "Name": "65. Rautahat by Joan Vifquin",
+                "Description": "<div dir=\"ltr\">Ekantakuna, Lalitpur (Hotel Shaligram Appartment)</div>",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//65 Rautahat - Joan Vifquin.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.311768,
+                    27.67104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 67,
+            "properties": {
+                "Name": "66. Accham by Kabina Shrestha",
+                "Description": "UN Collaboration",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//66 Achham - Kabina Shrestha.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.315933,
+                    27.680496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 68,
+            "properties": {
+                "Name": "67. Baitadi by Kiran Maharjan",
+                "Description": "UN Collaboration",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//67 Baitadi - H11235.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.316055,
+                    27.680515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 69,
+            "properties": {
+                "Name": "68. Jajarkot by Rimishna Manandhar",
+                "Description": "UN Collaboration",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//68 Jajarkot - Rimishna Manandhar.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.316162,
+                    27.680502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 70,
+            "properties": {
+                "Name": "69. Kalikot by Hisila Tuladhar",
+                "Description": "UN Collaboration<div><br>&nbsp;</div>",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//69 Kalikot - Hisila Tuladhar.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.316254,
+                    27.680502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 71,
+            "properties": {
+                "Name": "70. Saptari by Shristi Shrestha",
+                "Description": "UN Collaboration",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//70 Saptari - Shristi Shrestha.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.316338,
+                    27.680508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 72,
+            "properties": {
+                "Name": "71. Surkhet by Sandhya Silwal",
+                "Description": "Pulchowk, Lalitpur",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//71 Surkhet - Sandhya Silwal.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.315765,
+                    27.67808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 73,
+            "properties": {
+                "Name": "72. Dolpa by Emil Shrestha",
+                "Description": "<div dir=\"ltr\">(Pulchowk, the lane beside Namaste Supermarket, Lalitpur)</div>",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//72 Dolpa - Emil Shrestha.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.317978,
+                    27.67737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 74,
+            "properties": {
+                "Name": "73. Sankhuwashabha by Katie Green",
+                "Description": "<div dir=\"ltr\">Baglamukhi Temple, Lalitpur</div>",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//73 Sankhuwasabha - Katie Green.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.326385,
+                    27.676001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 75,
+            "properties": {
+                "Name": "74. Terhathum by Sramdeep Purkoti",
+                "Description": "<div dir=\"ltr\">Dalachhen, Lalitpur (Near Sunndhara)</div>",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//74 Tehrathum - Shramdip Purkoti.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.329834,
+                    27.668716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 76,
+            "properties": {
+                "Name": "75. Pyuthan by PJ (Prajwol Uprety) and Melvin Wong",
+                "Description": "<div dir=\"ltr\">Nakhipot, Lalitpur (Jesus College)</div> <br><img src=\"http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/bara.jpg\">",
+                "image_src": "gitprojects//kolorkathmandu//Final Photos of Mural for Map//75 Pyuthan - PJ & Melvin Wong.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.31633,
+                    27.650707
+                ]
+            }
+        }
+    ]
+}
