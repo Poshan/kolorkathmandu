@@ -1,0 +1,55 @@
+<html>
+<head>
+	<script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js">
+	</script>
+	<script src="http://code.jquery.com/jquery-1.10.2.min.js">
+	</script>
+	<link rel="points" type="application/json" href="./map.geojson">
+	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css"/>
+	<style>
+	#map{
+		height:100%;
+		width:100%;
+	}
+	</style>
+	<script type="text/javascript">
+	function init(){
+		
+		
+		var map=L.map('map').setView([27.72223,85.33141], 13);
+		var osmAttr = '&copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>';
+		
+		var openStreetMap  = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{minZoom:8,maxZoom:15,attribution: osmAttr});
+		map.addLayer(openStreetMap);
+		
+		/*var url='map.json';
+		var geojson1  =  new L.geoJson(url, {
+			style:defaultStyle,
+    		onEachFeature: function (feature, layer) {
+        		layer.bindPopup("<img src=feature.properties.image_src>");
+    		}
+		});
+		geojson1.addTo(map);*/
+
+		$.getJSON($('link[rel="points"]').attr("href"), 
+			function(data) {
+		    var geojson = L.geoJson(data, {
+		    	style:defaultStyle,
+		    	onEachFeature: function (feature, layer) {
+		        layer.bindPopup("<img src=feature.properties.image_src>");
+		    	}
+		    });
+		});
+		
+
+		}
+
+	</script>
+</head>
+<body onload=init()>
+	<div id="map"></div>
+	
+</body>
+
+
+</html>
